@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JiatLn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiatLn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![JiatLn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiatLn&theme=radical)](https://github.com/JiatLn/JiatLn)
 
-[![JiatLn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JiatLn)](https://github.com/anuraghazra/github-readme-stats)
+
 
