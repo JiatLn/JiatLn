@@ -1,4 +1,4 @@
-### Hi, I'am JiatLn. 👋
+### Hi, I'm JiatLn. 👋
 
 <!--
 **JiatLn/JiatLn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
