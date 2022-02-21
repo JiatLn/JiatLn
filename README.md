@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiatLn&langs_count=5&layout=compact)](https://github.com/JiatLn/JiatLn)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite2-vue3-ts-template)](https://github.com/JiatLn/vite2-vue3-ts-template)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=yys-yuhun-simulator)](https://github.com/JiatLn/yys-yuhun-simulator)
+
 
 
 
