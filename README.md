@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ### some toy project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=yys-yuhun-simulator)](https://github.com/JiatLn/yys-yuhun-simulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vue-fliplay)](https://github.com/JiatLn/vue-fliplay)
 
 
 
