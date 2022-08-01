@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=yys-yuhun-simulator)](https://github.com/JiatLn/yys-yuhun-simulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vue-fliplay)](https://github.com/JiatLn/vue-fliplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite-plugin-injection)](https://github.com/JiatLn/vite-plugin-injection)
 
 
 
