@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite-plugin-injection)](https://github.com/JiatLn/vite-plugin-injection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=css100)](https://github.com/JiatLn/css100)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=CloudSleep)](https://github.com/JiatLn/CloudSleep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=ri)](https://github.com/JiatLn/ri)
 
 
 
