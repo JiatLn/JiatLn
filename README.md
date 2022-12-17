@@ -1,6 +1,6 @@
 ### Hi, I'm JiatLn. 👋
 
-A front-end developer
+A front-end developer & a rust leaner.
 
 <!--
 **JiatLn/JiatLn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,13 +27,12 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite2-vue3-ts-template)](https://github.com/JiatLn/vite2-vue3-ts-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=nuxt3-template)](https://github.com/JiatLn/nuxt3-template)
 
-### some toy project
+### some project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=yys-yuhun-simulator)](https://github.com/JiatLn/yys-yuhun-simulator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vue-fliplay)](https://github.com/JiatLn/vue-fliplay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite-plugin-injection)](https://github.com/JiatLn/vite-plugin-injection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=css100)](https://github.com/JiatLn/css100)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=CloudSleep)](https://github.com/JiatLn/CloudSleep)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=color-art)](https://github.com/JiatLn/color-art)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=ri)](https://github.com/JiatLn/ri)
 
 
