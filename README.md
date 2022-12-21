@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite2-vue3-ts-template)](https://github.com/JiatLn/vite2-vue3-ts-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=nuxt3-template)](https://github.com/JiatLn/nuxt3-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=tauri-vue-starter)](https://github.com/JiatLn/tauri-vue-starter)
 
 ### some project
 
