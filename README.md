@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiatLn&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiatLn&theme=github)
 
-<br />
 
 ### Some template for you
 
