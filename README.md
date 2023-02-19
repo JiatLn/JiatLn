@@ -19,18 +19,33 @@ Here are some ideas to get you started:
 [![JiatLn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiatLn&theme=radical)](https://github.com/JiatLn/JiatLn)
 -->
 
-<br />
+<!-- <br /> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiatLn&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiatLn&theme=github) -->
 
+#### ☎️ Contact me
 
-### Some template for you
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](lne128gene980@163.com)
+- <img height="10" src="https://api.iconify.design/logos:github.svg">  [Github](https://github.com/JiatLn)
+- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://jiatln.netlify.app)
+
+#### 🛠 Tech Stack
+
+<code><img height="20" src="https://api.iconify.design/logos-typescript-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-vitejs.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vue.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:nuxt-icon.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
+
+#### Some template for you
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite2-vue3-ts-template)](https://github.com/JiatLn/vite2-vue3-ts-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=nuxt3-template)](https://github.com/JiatLn/nuxt3-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=tauri-vue-starter)](https://github.com/JiatLn/tauri-vue-starter)
 
-### 🌟 Star & PR welcome ↓
+#### 🌟 Star & PR welcome ↓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=color-art)](https://github.com/JiatLn/color-art)
 
