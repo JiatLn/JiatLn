@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 #### ☎️ Contact me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg">  [Email](lne128gene980@163.com)
-- <img height="10" src="https://api.iconify.design/logos:github.svg">  [Github](https://github.com/JiatLn)
-- <img height="10" src="https://api.iconify.design/logos:blogger.svg">  [Personal Website](https://jiatln.netlify.app)
+- <img height="18" src="https://api.iconify.design/ic/outline-email.svg">  [iamcx33@163.com](mailto:iamcx33@163.com)
+- <img height="18" src="https://api.iconify.design/ic/baseline-wechat.svg"> Jiat_Ln
+- <img height="18" src="https://api.iconify.design/logos/blogger.svg">  [Personal Website](https://jiatln.netlify.app)
 
 #### 🛠 Tech Stack
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
 
-#### Some template for you
+#### 📦 Some awesome template for you
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=vite2-vue3-ts-template)](https://github.com/JiatLn/vite2-vue3-ts-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=nuxt3-template)](https://github.com/JiatLn/nuxt3-template)
