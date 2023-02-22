@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 #### 🌟 Star & PR welcome ↓
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=color-art)](https://github.com/JiatLn/color-art)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiatLn&repo=ri)](https://github.com/JiatLn/ri)
 
 
 
