@@ -2,6 +2,8 @@
 
 A front-end developer. I’m currently learning `rust`.
 
+<img src="./ferris.gif" height="60" />
+
 <!--
 **JiatLn/JiatLn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
