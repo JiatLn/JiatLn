@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-unocss.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-rust.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos-react.svg"></code>&nbsp;
 <code><img height="20" src="https://api.iconify.design/logos-nextjs.svg"></code>&nbsp;
 
 #### 📦 Some awesome template for you
