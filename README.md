@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - <img height="18" src="https://api.iconify.design/ic/outline-email.svg">  [iamcx33@163.com](mailto:iamcx33@163.com)
 - <img height="18" src="https://api.iconify.design/ic/baseline-wechat.svg"> Jiat_Ln
-- <img height="18" src="https://api.iconify.design/logos/blogger.svg">  [Personal Website](https://jiatln.netlify.app)
+- <img height="18" src="https://api.iconify.design/logos/blogger.svg">  [Personal Website](https://jiatln.vercel.app)
 
 #### 🛠 Tech Stack
 
